@@ -1,0 +1,110 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "src/animations/animationsFile.json",
+                "type": "animation",
+                "key": "animationsFile"
+            },
+            {
+                "url": "assets/birdman.png",
+                "type": "image",
+                "key": "birdman"
+            },
+            {
+                "url": "assets/box.png",
+                "type": "image",
+                "key": "box"
+            },
+            {
+                "url": "assets/crystal_world_map.json",
+                "type": "tilemapTiledJSON",
+                "key": "crystal_world_map"
+            },
+            {
+                "url": "assets/enemy_sheet.png",
+                "frameConfig": {
+                    "frameWidth": 32,
+                    "frameHeight": 64,
+                    "startFrame": 0,
+                    "endFrame": 12,
+                    "spacing": 32,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "enemy_sheet"
+            },
+            {
+                "url": "assets/idle01.png",
+                "type": "image",
+                "key": "idle01"
+            },
+            {
+                "url": "assets/main_lev_build_1.png",
+                "type": "image",
+                "key": "main_lev_build_1"
+            },
+            {
+                "url": "assets/main_lev_build_2.png",
+                "type": "image",
+                "key": "main_lev_build_2"
+            },
+            {
+                "url": "assets/move_sprite_1.png",
+                "frameConfig": {
+                    "frameWidth": 32,
+                    "frameHeight": 38,
+                    "startFrame": 0,
+                    "endFrame": 7,
+                    "spacing": 32,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "move_idle"
+            },
+            {
+                "url": "assets/move_sprite_1.png",
+                "frameConfig": {
+                    "frameWidth": 32,
+                    "frameHeight": 38,
+                    "startFrame": 17,
+                    "endFrame": 23,
+                    "spacing": 32,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "move_jump"
+            },
+            {
+                "url": "assets/move_sprite_1.png",
+                "frameConfig": {
+                    "frameWidth": 32,
+                    "frameHeight": 38,
+                    "startFrame": 11,
+                    "endFrame": 16,
+                    "spacing": 32,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "move_sprite_1"
+            },
+            {
+                "url": "assets/sandy_tilesheet_64_64.png",
+                "type": "image",
+                "key": "sandy_tilesheet_64_64"
+            },
+            {
+                "url": "assets/sandy_tilesheet_64_64_extruded.png",
+                "type": "image",
+                "key": "sandy_tilesheet_64_64_extruded"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

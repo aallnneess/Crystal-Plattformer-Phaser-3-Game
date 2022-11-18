@@ -1,0 +1,43 @@
+{
+    "id": "1f99a6db-1516-44c9-a49c-bd047a971d27",
+    "settings": {
+        "createMethodName": "",
+        "preloadMethodName": "",
+        "compilerOutputLanguage": "TYPE_SCRIPT",
+        "exportClass": false,
+        "autoImport": false,
+        "generateAwakeHandler": false,
+        "compilerInsertSpaces": false,
+        "compilerTabSize": 4,
+        "borderWidth": 1280,
+        "borderHeight": 600,
+        "borderX": 0,
+        "borderY": 0
+    },
+    "sceneType": "PREFAB",
+    "displayList": [
+        {
+            "unlock": [
+                "x",
+                "y"
+            ],
+            "type": "ArcadeImage",
+            "id": "f61c0225-4d74-4c20-a88c-3a9a108e4fe5",
+            "label": "arcadeimage_1",
+            "components": [],
+            "texture": {
+                "key": "box"
+            },
+            "x": 0,
+            "y": 0,
+            "physicsType": 1,
+            "body.width": 292,
+            "body.height": 46
+        }
+    ],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "components": [
+        {
+            "name": "PlayerMovement",
+            "baseClass": "",
+            "gameObjectType": "Phaser.Physics.Arcade.Sprite",
+            "properties": []
+        }
+    ],
+    "meta": {
+        "app": "Phaser Editor 2D - User Components Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.UserComponents"
+    },
+    "outputLang": "TYPE_SCRIPT"
+}

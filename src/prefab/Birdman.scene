@@ -1,0 +1,36 @@
+{
+    "id": "8aab0bac-22bc-4f5a-a9b7-20e52368ffbb",
+    "sceneType": "PREFAB",
+    "settings": {
+        "preloadMethodName": "",
+        "preloadPackFiles": [],
+        "createMethodName": "",
+        "compilerOutputLanguage": "TYPE_SCRIPT",
+        "borderWidth": 1280
+    },
+    "displayList": [
+        {
+            "type": "ArcadeSprite",
+            "id": "d5ac842c-770b-46a1-96d7-ae77f9bb20ce",
+            "label": "birdman",
+            "components": [],
+            "texture": {
+                "key": "birdman"
+            },
+            "x": 10,
+            "body.gravity.y": 500,
+            "collideWorldBounds": true,
+            "body.width": 24,
+            "body.height": 39,
+            "body.offset.x": 7,
+            "body.offset.y": 24
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 3
+    }
+}
